@@ -1,5 +1,9 @@
-div {
-    .column {
-        float: left;
-    }
+ {
+    box-sizing: border-box;
+}
+
+.glass
+{
+    float: "left";
+    margin-left: 20px;
 }
